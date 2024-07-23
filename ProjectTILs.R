@@ -42,3 +42,4 @@ genes4radar = c("Foxp3", "Cd4", "Cd8a", "Tcf7", "Ccr7", "Sell", "Gzmb", "Gzmk", 
                 "Havcr2", "Tox", "Mki67")
 
 plot.states.radar(ref, query = query.projected, genes4radar = genes4radar, min.cells = 20)
+
